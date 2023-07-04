@@ -34,7 +34,7 @@ public class BaseClass {
 	  {
 	  driver= new ChromeDriver();
 	  }
-	  else if(browser.equals("firfox"))
+	  else if(browser.equals("firefox"))
 	  {
 		  
 		driver=new FirefoxDriver() ;
